@@ -1,6 +1,5 @@
 ## vectorshred
 
-vectorshred
 Cybersecurity, networking, development and security research.
 Building things. Breaking things. Learning how they work.
 
